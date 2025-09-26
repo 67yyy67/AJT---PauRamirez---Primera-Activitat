@@ -1,0 +1,12 @@
+Ex 1: 2/2
+
+Ex2: 1.5/1.5
+
+Ex3:1.5/1.5
+
+Ex4: 4/4
+
+Github: 1/1
+Jupyter: 1/1
+
+Nota final: 10
